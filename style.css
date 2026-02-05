@@ -616,3 +616,16 @@ nav ul li a:focus {
   display: block;
   margin: 0 auto 12px auto;
 }
+
+.direct-contact {
+  margin-bottom: 1.2rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+.direct-contact a {
+  color: #0066cc;
+  text-decoration: none;
+}
+.direct-contact a:hover {
+  text-decoration: underline;
+}
